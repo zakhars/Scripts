@@ -1,0 +1,31 @@
+0. Used gpedit from live CD to resize C-drive and create 13 Gb / partition and 2 Gb swap
+
+1. Changed color theme
+System Settings->Appearance->Theme
+It is possible to add more themes and drag&drop them into thsi window
+
+2. Installed VLC media player
+
+3. Install Exaile music player (not mandatory)
+
+4. Install Samba - it allows to see other Windows PC. Samba is installed when I try to share folder in Linux
+
+5. Install gThumb and xnView (from developer site)
+
+6. Change boot order in grup:
+http://askubuntu.com/questions/100232/how-do-i-change-the-grub-boot-order
+
+7. Install vpnc:
+http://handytutorial.com/install-cisco-vpn-client-in-ubuntu-12-04/
+
+8. Use Remmina RDP client to connect to windows desktop
+Host can't be resolved by name, only by IP. To capture keyboard inside RSP - press right Ctrl. To capture mouse back in Ubuntu - doubleclick on desktop
+
+9. Add Russian keyboard layout: System Settings -> Keyboard -> Layout Settings
+
+10. Installed Stellarium
+
+11. Install gconf-editor
+
+12. Install GNOME Shell and GNOME Tweak Tool. TO choose GNOME as WM, change it on logon screen (click to the WM icon)
+
