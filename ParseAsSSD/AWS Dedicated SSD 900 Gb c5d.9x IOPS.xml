@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ASSSDBenchmark
+  XmlFormatVersion="1">
+  <Information>
+    <Name>NVMe Amazon EC2 NVMe SCSI Disk Device</Name>
+    <Firmware>0</Firmware>
+    <Controller>AWSNVMe</Controller>
+    <Size>838.18 GB</Size>
+    <DateTime>6/6/2018 9:56:06 AM</DateTime>
+    <BenchmarkVersion>2.0.6694.23026</BenchmarkVersion>
+    <Mode>iops</Mode>
+    <Note />
+    <Signature />
+  </Information>
+  <SeqTest>
+    <Read>102.04 iops</Read>
+    <Write>52.47 iops</Write>
+  </SeqTest>
+  <Random4K1TTest>
+    <Read>9501 iops</Read>
+    <Write>22598 iops</Write>
+  </Random4K1TTest>
+  <Random4K64TTest>
+    <Read>291793 iops</Read>
+    <Write>154973 iops</Write>
+  </Random4K64TTest>
+  <AccTimeTest>
+    <Read>18670 iops</Read>
+    <Write>7651 iops</Write>
+  </AccTimeTest>
+  <Score>
+    <Read>1340</Read>
+    <Write>778</Write>
+    <Total>2767</Total>
+  </Score>
+</ASSSDBenchmark>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ASSSDBenchmark
+  XmlFormatVersion="1">
+  <Information>
+    <Name>DELL PERC H710P SCSI Disk Device</Name>
+    <Firmware>3.13</Firmware>
+    <Controller>percsas2</Controller>
+    <Size>2234.50 GB</Size>
+    <DateTime>6/6/2018 7:50:43 AM</DateTime>
+    <BenchmarkVersion>2.0.6694.23026</BenchmarkVersion>
+    <Mode>iops</Mode>
+    <Note />
+    <Signature />
+  </Information>
+  <SeqTest>
+    <Read>35.53 iops</Read>
+    <Write>27.35 iops</Write>
+  </SeqTest>
+  <Random4K1TTest>
+    <Read>463 iops</Read>
+    <Write>3971 iops</Write>
+  </Random4K1TTest>
+  <Random4K64TTest>
+    <Read>2087 iops</Read>
+    <Write>6965 iops</Write>
+  </Random4K64TTest>
+  <AccTimeTest>
+    <Read>144 iops</Read>
+    <Write>4943 iops</Write>
+  </AccTimeTest>
+  <Score>
+    <Read>67</Read>
+    <Write>86</Write>
+    <Total>181</Total>
+  </Score>
+</ASSSDBenchmark>

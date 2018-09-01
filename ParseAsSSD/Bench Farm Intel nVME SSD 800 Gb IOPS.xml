@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ASSSDBenchmark
+  XmlFormatVersion="1">
+  <Information>
+    <Name>NVMe INTEL SSDPEDMD40</Name>
+    <Firmware>8DV10102</Firmware>
+    <Controller>stornvme</Controller>
+    <Size>372.61 GB</Size>
+    <DateTime>6/6/2018 7:29:00 AM</DateTime>
+    <BenchmarkVersion>2.0.6694.23026</BenchmarkVersion>
+    <Mode>iops</Mode>
+    <Note />
+    <Signature />
+  </Information>
+  <SeqTest>
+    <Read>41.16 iops</Read>
+    <Write>45.86 iops</Write>
+  </SeqTest>
+  <Random4K1TTest>
+    <Read>10568 iops</Read>
+    <Write>44403 iops</Write>
+  </Random4K1TTest>
+  <Random4K64TTest>
+    <Read>372720 iops</Read>
+    <Write>267342 iops</Write>
+  </Random4K64TTest>
+  <AccTimeTest>
+    <Read>15442 iops</Read>
+    <Write>14608 iops</Write>
+  </AccTimeTest>
+  <Score>
+    <Read>1563</Read>
+    <Write>1291</Write>
+    <Total>3660</Total>
+  </Score>
+</ASSSDBenchmark>
